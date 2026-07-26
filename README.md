@@ -1,6 +1,6 @@
 <h1 align="center">Hola, Soy Dalton </h1>
 
-
+Soy un desarrollador apasionado por construir aplicaciones que no solo funcionen, sino que escalen, sean seguras, accesibles y fáciles de mantener por otros desarrolladores. Mi filosofía técnica se basa en la premisa de que los buenos programadores escriben código que los humanos pueden entender.
 
 <!--
 **Developer-DsC/Developer-DsC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,6 +23,9 @@ Here are some ideas to get you started:
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/dalton_oviedo/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dalton-cornejo-b00a67322)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:daltonsteve22@gmail.com)
+
+
+<p> </p>
 
 
 <h2 align="center"> 💻 Tech Stack & Herramientas </h2>
