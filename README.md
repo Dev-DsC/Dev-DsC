@@ -1,4 +1,6 @@
-## Hello There, I'm Dalton 👋
+<h1 align="center">Hola, Soy Dalton </h1>
+
+
 
 <!--
 **Developer-DsC/Developer-DsC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 📨 Contacta conmigo:
+<h2 align="center">Contactame</h2>
+
+<div align="center">
 
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/dalton_oviedo/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dalton-cornejo-b00a67322)
