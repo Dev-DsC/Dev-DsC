@@ -90,4 +90,4 @@ Here are some ideas to get you started:
 
 ---
 
-<p align="center"><i>Última edición: 15/05/2025</i></p>
+<p align="center"><i>Última edición: 26/07/2026</i></p>
