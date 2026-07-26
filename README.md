@@ -2,6 +2,10 @@
 
 Soy un desarrollador apasionado por construir aplicaciones que no solo funcionen, sino que escalen, sean seguras, accesibles y fáciles de mantener por otros desarrolladores. Mi filosofía técnica se basa en la premisa de que los buenos programadores escriben código que los humanos pueden entender.
 
+<div align="center" width="80px">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif"></img:>
+</div>
+
 <!--
 **Developer-DsC/Developer-DsC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
