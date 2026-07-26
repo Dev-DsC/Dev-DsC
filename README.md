@@ -66,9 +66,11 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Dev-DsC&theme=merko)](https://git.io/streak-stats)
 
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Dev-DsC&theme=algolia)](https://github.com/AnushkaWijegoonawardana97/github-readme-stats)  
-[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-DsC&theme=algolia)](https://github.com/AnushkaWijegoonawardana97/github-readme-stats)  
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Dev-DsC)](https://github.com/stats-organization/github-stats-extended)
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Dev-DsC&langs_count=5&theme=catppuccin_latte)](https://github-stats-extended.vercel.app/api/top-langs?username=Dev-DsC&langs_count=5&theme=catppuccin_latte)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=Dev-DsC&langs_count=6&theme=shadow_green)](https://wakatime.com/@Dev-DsC)
 
 <br>
 
@@ -76,7 +78,7 @@ Here are some ideas to get you started:
 
 <br>
 
-[![Trofeos](https://github-profile-trophy.vercel.app/?username=Dev-DsC&theme=algolia)](https://github.com/Developer-DsC/github-profile-trophy)
+![](https://github-trophies.vercel.app/?username=Dev-DsC)
 
 <br>
 
