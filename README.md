@@ -77,7 +77,7 @@ Here are some ideas to get you started:
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Dev-DsC&langs_count=5&theme=catppuccin_latte)](https://github-stats-extended.vercel.app/api/top-langs?username=Dev-DsC&langs_count=5&theme=catppuccin_latte)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=Dev-DsC&langs_count=6&theme=shadow_green)](https://wakatime.com/@Dev-DsC)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=Dev-DsC&langs_count=6&theme=shadow_green)](https://wakatime.com/@18e86136-5a31-4f07-96df-a467a8a342bc)
 
 <br>
 
