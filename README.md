@@ -1,5 +1,5 @@
 <h1 align="center">Hola, Soy Dalton 🖖  </h1>
-a
+
 Soy un desarrollador apasionado por construir aplicaciones que no solo funcionen, sino que escalen, sean seguras, accesibles y fáciles de mantener por otros desarrolladores. Mi filosofía técnica se basa en la premisa de que los buenos programadores escriben código que los humanos pueden entender.
 
 <div align="center" width="80px">
