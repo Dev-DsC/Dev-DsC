@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 
 <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Dev-DsC&theme=Transparent)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Dev-DsC)](https://git.io/streak-stats)
 
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Dev-DsC)](https://github.com/stats-organization/github-stats-extended)
 
