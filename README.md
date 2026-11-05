@@ -1,6 +1,12 @@
 <h1 align="center">Hola, Soy Dalton 🖖  </h1>
 
-Soy un desarrollador apasionado por construir aplicaciones que no solo funcionen, sino que escalen, sean seguras, accesibles y fáciles de mantener por otros desarrolladores. Mi filosofía técnica se basa en la premisa de que los buenos programadores escriben código que los humanos pueden entender.
+Soy desarrollador full-stack. Construí y opero [proserpoc.com](https://proserpoc.com), una tienda con pagos y facturación electrónica en producción, y estoy construyendo Faynit, un SaaS multi-tenant. Me importa que el código sea seguro, aguante en producción y lo pueda mantener otra persona: los buenos programadores escriben código que los humanos pueden entender.
+
+**Casos de estudio:**
+
+- [Proserpoc](https://github.com/Dev-DsC/case-study-proserpoc): comercio B2B y B2C con 3 medios de pago y facturación electrónica ante el SRI, en producción.
+- [Faynit](https://github.com/Dev-DsC/case-study-faynit): SaaS multi-tenant con Row Level Security en PostgreSQL y facturación electrónica.
+- [Sistema para talleres mecánicos](https://github.com/Dev-DsC/case-study-auto-repair-shop): Angular 22, GraphQL y MongoDB, en desarrollo.
 
 <div align="center" width="80px">
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif"></img:>
@@ -25,7 +31,7 @@ Here are some ideas to get you started:
 <div align="center">
 
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/dalton_oviedo/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dalton-cornejo-b00a67322)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dalton-cornejo/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:daltonsteve22@gmail.com)
 
 
@@ -94,4 +100,4 @@ Here are some ideas to get you started:
 
 ---
 
-<p align="center"><i>Última edición: 26/07/2026</i></p>
+<p align="center"><i>Última edición: 05/11/2026</i></p>
